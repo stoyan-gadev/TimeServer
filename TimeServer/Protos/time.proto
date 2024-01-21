@@ -1,0 +1,17 @@
+syntax = "proto3";
+
+option csharp_namespace = "TimeServer";
+
+package time;
+
+service TimeService {
+  rpc GetCurrentTime (TimeRequest) returns (TimeResponse);
+}
+
+message TimeRequest {
+  string message = 1;
+}
+
+message TimeResponse {
+  string message = 1;
+}

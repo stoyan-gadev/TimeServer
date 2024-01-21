@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TimeServer", "TimeServer\TimeServer.csproj", "{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|ARM.Build.0 = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|x64.Build.0 = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Debug|x86.Build.0 = Debug|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|ARM.ActiveCfg = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|ARM.Build.0 = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|ARM64.Build.0 = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|x64.ActiveCfg = Release|x64
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|x64.Build.0 = Release|x64
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|x86.ActiveCfg = Release|Any CPU
+		{6A5A6E52-7A6C-4F90-A1BE-33B8510C754C}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {891E4923-B012-4407-A980-61B21B51A803}
+	EndGlobalSection
+EndGlobal
